@@ -1,0 +1,11 @@
+C:\Users\zawro\source\repos\MyFileManager\MyFileManager\obj\Debug\MyFileManager.csprojAssemblyReference.cache
+C:\Users\zawro\source\repos\MyFileManager\MyFileManager\obj\Debug\MyFileManager.Properties.Resources.resources
+C:\Users\zawro\source\repos\MyFileManager\MyFileManager\obj\Debug\MyFileManager.View.MyFileManagerView.resources
+C:\Users\zawro\source\repos\MyFileManager\MyFileManager\obj\Debug\MyFileManager.csproj.GenerateResource.cache
+C:\Users\zawro\source\repos\MyFileManager\MyFileManager\obj\Debug\MyFileManager.csproj.CoreCompileInputs.cache
+C:\Users\zawro\source\repos\MyFileManager\MyFileManager\bin\Debug\MyFileManager.exe.config
+C:\Users\zawro\source\repos\MyFileManager\MyFileManager\bin\Debug\MyFileManager.exe
+C:\Users\zawro\source\repos\MyFileManager\MyFileManager\bin\Debug\MyFileManager.pdb
+C:\Users\zawro\source\repos\MyFileManager\MyFileManager\obj\Debug\MyFileManager.exe
+C:\Users\zawro\source\repos\MyFileManager\MyFileManager\obj\Debug\MyFileManager.pdb
+C:\Users\zawro\source\repos\MyFileManager\MyFileManager\obj\Debug\MyFileManager.View.AddElementView.resources
